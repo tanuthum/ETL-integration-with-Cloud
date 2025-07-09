@@ -1,0 +1,101 @@
+transaction_id,date,product_id,name,price,customer_id,country,quantity,year,quarter,month,week,day,day_name,country_id
+536365,2018-12-01,21730,Glass Star Frosted T-Light Holder,14.61,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536365,2018-12-01,22752,Set 7 Babushka Nesting Boxes,18.09,17850,United Kingdom,2,2018,4,12,48,1,Saturday,UNI14
+536365,2018-12-01,71053,White Moroccan Metal Lantern,13.72,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536365,2018-12-01,84029E,Red Woolly Hottie White Heart,13.72,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536365,2018-12-01,84029G,Knitted Union Flag Hot Water Bottle,13.72,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536365,2018-12-01,84406B,Cream Cupid Hearts Coat Hanger,13.07,17850,United Kingdom,8,2018,4,12,48,1,Saturday,UNI14
+536365,2018-12-01,85123A,Cream Hanging Heart T-Light Holder,12.86,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536366,2018-12-01,22632,Hand Warmer Red Retrospot,12.15,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536366,2018-12-01,22633,Hand Warmer Union Jack,12.15,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536367,2018-12-01,21754,Home Building Block Word,16.35,13047,United Kingdom,3,2018,4,12,48,1,Saturday,UNI14
+536367,2018-12-01,21755,Love Building Block Word,16.35,13047,United Kingdom,3,2018,4,12,48,1,Saturday,UNI14
+536367,2018-12-01,21777,Recipe Box With Metal Heart,18.4,13047,United Kingdom,4,2018,4,12,48,1,Saturday,UNI14
+536367,2018-12-01,22310,Ivory Knitted Mug Cosy,11.94,13047,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536367,2018-12-01,22622,Box Of Vintage Alphabet Blocks,20.45,13047,United Kingdom,2,2018,4,12,48,1,Saturday,UNI14
+536367,2018-12-01,22623,Box Of Vintage Jigsaw Blocks,15.32,13047,United Kingdom,3,2018,4,12,48,1,Saturday,UNI14
+536367,2018-12-01,22745,Poppy's Playhouse Bedroom,12.4,13047,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536367,2018-12-01,22748,Poppy's Playhouse Kitchen,12.4,13047,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536367,2018-12-01,22749,Feltcraft Princess Charlotte Doll,14.09,13047,United Kingdom,8,2018,4,12,48,1,Saturday,UNI14
+536367,2018-12-01,48187,Doormat New England,18.4,13047,United Kingdom,4,2018,4,12,48,1,Saturday,UNI14
+536367,2018-12-01,84879,Assorted Colour Bird Ornament,11.98,13047,United Kingdom,32,2018,4,12,48,1,Saturday,UNI14
+536367,2018-12-01,84969,Box Of 6 Assorted Colour Teaspoons,14.61,13047,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536368,2018-12-01,22912,Yellow Coat Rack Paris Fashion,15.32,13047,United Kingdom,3,2018,4,12,48,1,Saturday,UNI14
+536368,2018-12-01,22913,Red Coat Rack Paris Fashion,15.32,13047,United Kingdom,3,2018,4,12,48,1,Saturday,UNI14
+536368,2018-12-01,22914,Blue Coat Rack Paris Fashion,15.32,13047,United Kingdom,3,2018,4,12,48,1,Saturday,UNI14
+536368,2018-12-01,22960,Jam Making Set With Jars,14.61,13047,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536369,2018-12-01,21756,Bath Building Block Word,16.35,13047,United Kingdom,3,2018,4,12,48,1,Saturday,UNI14
+536370,2018-12-01,10002,Inflatable Political Globe,11.12,12583,France,48,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,21035,Set/2 Red Retrospot Tea Towels,13.27,12583,France,18,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,21724,Panda And Bunnies Sticker Sheet,11.12,12583,France,12,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,21731,Red Toadstool Led Night Light,11.94,12583,France,24,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,21791,Vintage Heads And Tails Card Game,11.53,12583,France,24,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,21883,Stars Gift Tape,10.92,12583,France,24,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,21913,Vintage Seaside Jigsaw Puzzles,14.09,12583,France,12,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,22326,Round Snack Boxes Set Of4 Woodland,13.27,12583,France,24,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,22492,Mini Paint Set Vintage,10.92,12583,France,36,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,22540,Mini Jigsaw Circus Parade,10.68,12583,France,24,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,22544,Mini Jigsaw Spaceboy,10.68,12583,France,24,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,22629,Spaceboy Lunch Box,12.25,12583,France,24,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,22631,Circus Parade Lunch Box,12.25,12583,France,24,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,22659,Lunch Box I Love London,12.25,12583,France,24,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,22661,Charlotte Bag Dolly Girl Design,11.12,12583,France,20,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,22726,Alarm Clock Bakelike Green,14.09,12583,France,12,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,22727,Alarm Clock Bakelike Red,14.09,12583,France,24,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,22728,Alarm Clock Bakelike Pink,14.09,12583,France,24,2018,4,12,48,1,Saturday,FRA6
+536370,2018-12-01,22900,Set 2 Tea Towels I Love London,13.27,12583,France,24,2018,4,12,48,1,Saturday,FRA6
+536371,2018-12-01,22086,Paper Chain Kit 50'S Christmas,12.86,13748,United Kingdom,80,2018,4,12,48,1,Saturday,UNI14
+536372,2018-12-01,22632,Hand Warmer Red Retrospot,12.15,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536372,2018-12-01,22633,Hand Warmer Union Jack,12.15,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,20679,Edwardian Parasol Red,15.32,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,21068,Vintage Billboard Love/Hate Mug,11.34,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,21071,Vintage Billboard Drink Me Mug,11.34,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,21730,Glass Star Frosted T-Light Holder,14.61,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,21871,Save The Planet Mug,11.34,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,22752,Set 7 Babushka Nesting Boxes,18.09,17850,United Kingdom,2,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,37370,Retro Coffee Mugs Assorted,11.34,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,71053,White Moroccan Metal Lantern,13.72,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,82482,Wooden Picture Frame White Finish,12.4,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,82483,Wood 2 Drawer Cabinet White Finish,15.32,17850,United Kingdom,2,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,82486,3 Drawer Antique White Wood Cabinet,17.37,17850,United Kingdom,4,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,82494L,Wooden Frame Antique White,12.86,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,84029E,Red Woolly Hottie White Heart,13.72,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,84029G,Knitted Union Flag Hot Water Bottle,13.72,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,84406B,Cream Cupid Hearts Coat Hanger,13.07,17850,United Kingdom,8,2018,4,12,48,1,Saturday,UNI14
+536373,2018-12-01,85123A,Cream Hanging Heart T-Light Holder,12.86,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536374,2018-12-01,21258,Victorian Sewing Box Large,21.47,15100,United Kingdom,32,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,20679,Edwardian Parasol Red,15.32,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,21068,Vintage Billboard Love/Hate Mug,11.34,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,21071,Vintage Billboard Drink Me Mug,11.34,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,21730,Glass Star Frosted T-Light Holder,14.61,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,21871,Save The Planet Mug,11.34,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,22752,Set 7 Babushka Nesting Boxes,18.09,17850,United Kingdom,2,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,37370,Retro Coffee Mugs Assorted,11.34,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,71053,White Moroccan Metal Lantern,13.72,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,82482,Wooden Picture Frame White Finish,12.4,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,82483,Wood 2 Drawer Cabinet White Finish,15.32,17850,United Kingdom,2,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,82486,3 Drawer Antique White Wood Cabinet,17.37,17850,United Kingdom,4,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,82494L,Wooden Frame Antique White,12.86,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,84029E,Red Woolly Hottie White Heart,13.72,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,84029G,Knitted Union Flag Hot Water Bottle,13.72,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,84406B,Cream Cupid Hearts Coat Hanger,13.07,17850,United Kingdom,8,2018,4,12,48,1,Saturday,UNI14
+536375,2018-12-01,85123A,Cream Hanging Heart T-Light Holder,12.86,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536376,2018-12-01,21733,Red Hanging Heart T-Light Holder,12.86,15291,United Kingdom,64,2018,4,12,48,1,Saturday,UNI14
+536376,2018-12-01,22114,Hot Water Bottle Tea And Sympathy,13.79,15291,United Kingdom,48,2018,4,12,48,1,Saturday,UNI14
+536377,2018-12-01,22632,Hand Warmer Red Retrospot,12.15,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536377,2018-12-01,22633,Hand Warmer Union Jack,12.15,17850,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,20723,Strawberry Charlotte Bag,11.12,14688,United Kingdom,10,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,20725,Lunch Bag Red Retrospot,5.97,14688,United Kingdom,10,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,21033,Jumbo Bag Charlie And Lola Toys,6.64,14688,United Kingdom,10,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,21094,Set/6 Red Spotty Paper Plates,11.12,14688,United Kingdom,12,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,21212,Pack Of 72 Retrospot Cake Cases,10.68,14688,United Kingdom,120,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,21559,Strawberry Lunch Box With Cutlery,12.86,14688,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,21929,Jumbo Bag Pink Vintage Paisley,6.13,14688,United Kingdom,10,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,21931,Jumbo Storage Bag Suki,12.25,14688,United Kingdom,10,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,21975,Pack Of 60 Dinosaur Cake Cases,10.81,14688,United Kingdom,24,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,21977,Pack Of 60 Pink Paisley Cake Cases,10.81,14688,United Kingdom,24,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,22352,Lunch Box With Cutlery Retrospot,12.86,14688,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,22386,Jumbo Bag Pink Polkadot,6.13,14688,United Kingdom,10,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,84519A,Tomato Charlie+Lola Coaster Set,13.27,14688,United Kingdom,6,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,84991,60 Teatime Fairy Cake Cases,10.81,14688,United Kingdom,24,2018,4,12,48,1,Saturday,UNI14
+536378,2018-12-01,84997B,Childrens Cutlery Retrospot Red,14.09,14688,United Kingdom,12,2018,4,12,48,1,Saturday,UNI14
